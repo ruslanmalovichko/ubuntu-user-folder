@@ -39,7 +39,6 @@
 # To manual backup start
 # Google chrome tabs
 # mysql-workbench settings
-# Check Firefox browser
 
 /.vim/
 # Commit and send /.vim/pack
@@ -66,5 +65,9 @@
 # To manual backup from root folder start
 # /etc/fstab
 # /etc/crypttab
+# /etc/gdm3/custom.conf
+# /etc/bluetooth/main.conf
+# /etc/hosts
+# /root/.mysql
 # To manual backup from root folder end
 
