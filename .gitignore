@@ -63,3 +63,8 @@
 /.tmux.conf
 # To manual backup end
 
+# To manual backup from root folder start
+# /etc/fstab
+# /etc/crypttab
+# To manual backup from root folder end
+
