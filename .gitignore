@@ -1,6 +1,32 @@
 # We can remove start
+/.cache/
+/.config/
+/.local/
+/.oh-my-zsh/
+/.drush/
+/.gnome/
+/.gnupg/
+/.mozilla/
+/.pki/
+/.mysql/
+/.npm/
+/.thunderbird/
+/.zoom/
+/.viminfo
+/.zcompdump
+/.zcompdump-ruslan-*
+/.lesshst
+/.mysql_history
+/.vimrc
 # We can remove end
 
 # To manual backup start
+# Google chrome tabs
+# mysql-workbench settings
+# Check Firefox browser
+# Commit and send /.vim/pack
+# Manual backup /.vim/backup
+/.bash_history
+/.zsh_history
 # To manual backup end
 
