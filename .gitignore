@@ -12,21 +12,49 @@
 /.npm/
 /.thunderbird/
 /.zoom/
+/.node-gyp/
+/.steam/
+/snap/
+
 /.viminfo
 /.zcompdump
 /.zcompdump-ruslan-*
 /.lesshst
 /.mysql_history
 /.vimrc
+/.NERDTreeBookmarks
+/.bash_logout
+/.node_repl_history
+/.pulse-cookie
+/.shell.pre-oh-my-zsh
+/.profile
+/.pam_environment
+/.steampath
+/.steampid
+/.sudo_as_admin_successful
+/.wget-hsts
+/composer.lock
 # We can remove end
 
 # To manual backup start
 # Google chrome tabs
 # mysql-workbench settings
 # Check Firefox browser
+
+/.vim/
 # Commit and send /.vim/pack
 # Manual backup /.vim/backup
+
+/.aws/
+/.ssh/
+/Downloads/
+/Pictures/
+
 /.bash_history
+/.bashrc
 /.zsh_history
+/.zshrc
+/.gitconfig
+/.gitignore_global
 # To manual backup end
 
