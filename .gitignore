@@ -56,5 +56,10 @@
 /.zshrc
 /.gitconfig
 /.gitignore_global
+/.dbshell
+/.npmrc
+/.psql_history
+/.rediscli_history
+/.tmux.conf
 # To manual backup end
 
