@@ -38,9 +38,17 @@
 
 # To manual backup start
 # Google chrome tabs
-# mysql-workbench settings
+# mysql-workbench settings:
+# sudo su
+# cd
+# zip -r mysql.zip .mysql
+# cp mysql.zip /home/ruslan/
+# exit
+# cd
+# sudo chown -R ruslan:www-data mysql.zip
 
 /.vim/
+# Commit and send /.vimrc
 # Commit and send /.vim/pack
 # Manual backup /.vim/backup
 
