@@ -33,6 +33,7 @@
 /.steampid
 /.sudo_as_admin_successful
 /.wget-hsts
+/.xinputrc
 /composer.lock
 # We can remove end
 
