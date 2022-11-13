@@ -8,6 +8,7 @@
 /.gnupg/
 /.mozilla/
 /.pki/
+/.mysql/
 /.npm/
 /.thunderbird/
 /.zoom/
@@ -38,7 +39,7 @@
 
 # To manual backup start
 # Google chrome tabs
-# mysql-workbench settings:
+# mysql-workbench settings: To change
 # sudo su
 # cd
 # zip -r mysql.zip .mysql
@@ -77,6 +78,6 @@
 # /etc/gdm3/custom.conf
 # /etc/bluetooth/main.conf
 # /etc/hosts
-# /root/.mysql
+# /root/.mysql # To change
 # To manual backup from root folder end
 
