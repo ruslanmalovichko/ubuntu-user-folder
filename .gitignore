@@ -48,9 +48,10 @@
 # sudo chown -R ruslan:www-data mysql.zip
 
 /.vim/
-# Commit and send /.vimrc
-# Commit and send /.vim/pack
-# Manual backup /.vim/backup
+# cd ~/.vim/pack # Commit and send
+# cp ../coc-settings.json . # Commit and send
+# cp ../../.vimrc . # Commit and send /.vimrc
+# Manual backup ~/.vim/backup
 
 /.aws/
 /.ssh/
