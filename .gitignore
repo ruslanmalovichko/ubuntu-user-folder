@@ -39,15 +39,7 @@
 
 # To manual backup start
 # Google chrome tabs
-# mysql-workbench settings: To change
-# sudo su
-# cd
-# zip -r mysql.zip .mysql
-# cp mysql.zip /home/ruslan/
-# exit
-# cd
-# sudo chown -R ruslan:www-data mysql.zip
-
+# mysql-workbench settings. Write in mysql-workbench connections file in Google Document
 /.vim/
 # cd ~/.vim/pack # Commit and send
 # cp ../coc-settings.json . # Commit and send
