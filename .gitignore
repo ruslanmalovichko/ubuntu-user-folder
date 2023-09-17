@@ -44,7 +44,7 @@
 # cd ~/.vim/pack # Commit and send
 # cp ../coc-settings.json . # Commit and send
 # cp ../../.vimrc . # Commit and send /.vimrc
-# Manual backup ~/.vim/backup
+# Manual backup ~/.vim/backup in to the Google Drive, vim-backups folder
 
 /.aws/
 /.ssh/
@@ -59,7 +59,7 @@
 /.gitignore_global
 /.dbshell
 /.npmrc
-/.psql_history
+# /.psql_history # Maybe remove
 /.rediscli_history
 /.tmux.conf
 # To manual backup end
@@ -67,9 +67,8 @@
 # To manual backup from root folder start
 # /etc/fstab
 # /etc/crypttab
-# /etc/gdm3/custom.conf
+# /etc/gdm3/custom.conf # Maybe remove
 # /etc/bluetooth/main.conf
 # /etc/hosts
-# /root/.mysql # To change
+# /etc/default/grub
 # To manual backup from root folder end
-
