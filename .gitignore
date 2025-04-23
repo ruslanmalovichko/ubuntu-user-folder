@@ -1,6 +1,9 @@
 # We can remove start
 /.cache/
-/.config/
+/.config/*
+!/.config/nvim
+/.config/nvim/*
+!/.config/nvim/backup
 /.local/
 /.oh-my-zsh/
 /.drush/
