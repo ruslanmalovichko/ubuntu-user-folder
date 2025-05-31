@@ -50,6 +50,8 @@
 # cp ../../.vimrc . # Commit and send /.vimrc
 # Manual backup ~/.vim/backup in to the Google Drive, vim-backups folder
 
+# TO DO with neovim
+
 /.aws/
 /.ssh/
 /Downloads/
